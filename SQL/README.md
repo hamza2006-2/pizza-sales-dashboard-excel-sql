@@ -1,7 +1,17 @@
-# SQL
+# 🗄️ SQL
 
-This folder contains all SQL queries used for data extraction, KPI calculations, and business analysis in the Pizza Sales Dashboard project.
+## Overview
+This folder contains SQL queries used to analyze the Pizza Sales dataset.
 
-Contents:
-- Pizza_Sales_Queries.sql
-- KPI_Queries.sql
+## Analysis Performed
+- Total Revenue
+- Total Orders
+- Total Pizzas Sold
+- Average Order Value
+- Monthly Sales
+- Category-wise Sales
+- Top Selling Pizzas
+- Bottom Selling Pizzas
+
+## Purpose
+SQL was used to extract meaningful business insights before dashboard creation.
