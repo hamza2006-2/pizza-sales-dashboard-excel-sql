@@ -1,261 +1,689 @@
 ![Dashboard Banner](Assets/Dashboard%20Banner.png)
 
+<div align="center">
+
 # 🍕 Pizza Sales Dashboard using SQL & Microsoft Excel
 
-<p align="center">
+### Transforming Raw Sales Data into Actionable Business Insights
 
-<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Dashboard-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analysis-Business%20Intelligence-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard-Professional-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio_Project-2025-black?style=for-the-badge"/>
 
-</p>
+---
+
+### ⭐ Interactive Dashboard | SQL Analysis | Excel Dashboard | Business Intelligence ⭐
+
+</div>
 
 ---
 
 # 📖 Project Overview
 
-The **Pizza Sales Dashboard** is a complete Business Intelligence project developed using **SQL** and **Microsoft Excel**.
+## 📌 Introduction
 
-The project transforms raw transactional pizza sales data into an interactive dashboard that helps businesses monitor sales performance, identify customer purchasing behavior, evaluate product performance, and make data-driven decisions.
+The **Pizza Sales Dashboard** is an end-to-end Business Intelligence project developed using **SQL** and **Microsoft Excel**.
 
-This project demonstrates the complete Data Analytics workflow, including **data cleaning, SQL analysis, KPI creation, dashboard design, and business insight generation**.
+This project transforms raw transactional sales data into a professional and interactive dashboard that helps businesses understand their sales performance through meaningful KPIs, charts, pivot tables, and data visualizations.
+
+The dashboard provides valuable business insights including revenue trends, customer ordering behavior, category performance, best-selling products, and overall sales growth.
+
+---
+
+# 🎯 Business Problem
+
+Businesses collect thousands of sales records every day.
+
+However, raw data alone cannot help managers make strategic decisions.
+
+Without proper analysis it becomes difficult to answer questions like:
+
+- Which pizza generates the highest revenue?
+- Which category performs the best?
+- What are the monthly sales trends?
+- Which pizza size sells the most?
+- What is the average order value?
+- Which products are underperforming?
+
+This project solves these problems through data analytics and dashboard reporting.
 
 ---
 
 # 🎯 Project Objectives
 
-- Clean and organize raw sales data
-- Analyze business performance using SQL
-- Build an interactive Excel dashboard
-- Track business KPIs
-- Identify top and bottom selling pizzas
-- Analyze sales trends
-- Support business decision-making through data visualization
+✔ Clean Raw Dataset
+
+✔ Perform SQL Analysis
+
+✔ Calculate Business KPIs
+
+✔ Build Interactive Excel Dashboard
+
+✔ Create Executive Reports
+
+✔ Visualize Sales Trends
+
+✔ Identify Business Opportunities
+
+✔ Support Data Driven Decisions
+
+---
+
+# 🚀 Project Highlights
+
+- Complete Data Cleaning
+- SQL Query Analysis
+- Interactive Excel Dashboard
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Cards
+- Business Intelligence Reporting
+- Executive Dashboard
+- Professional Documentation
 
 ---
 
 # 🛠 Tools & Technologies
 
-- Microsoft Excel
-- SQL
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Excel Formulas
-- Conditional Formatting
-- Data Cleaning
-- Data Visualization
-- Business Intelligence
+| Tool | Purpose |
+|------|----------|
+| SQL | Data Analysis |
+| Microsoft Excel | Dashboard Development |
+| Pivot Tables | Data Summarization |
+| Pivot Charts | Visualization |
+| Slicers | Interactive Filtering |
+| Excel Formulas | KPI Calculations |
+| Conditional Formatting | Dashboard Design |
 
 ---
 
 # 📊 Dashboard Features
 
-✔ Executive Dashboard
+This dashboard includes the following business reports:
 
-✔ KPI Cards
+### 📈 Sales Performance
 
-✔ Interactive Filters (Slicers)
+- Total Revenue
+- Monthly Revenue
+- Daily Revenue
+- Revenue Trend
 
-✔ Pivot Tables
+---
 
-✔ Pivot Charts
+### 🍕
 
-✔ Revenue Analysis
+Pizza Performance
 
-✔ Monthly Sales Trend
+- Best Selling Pizza
 
-✔ Category Analysis
+- Worst Selling Pizza
 
-✔ Pizza Size Analysis
+- Category Analysis
 
-✔ Top Selling Products
+- Pizza Size Analysis
 
-✔ Bottom Selling Products
+---
 
-✔ Business Insights
+### 📦 Orders
+
+- Total Orders
+
+- Average Order Value
+
+- Average Pizza Per Order
+
+- Order Distribution
+
+---
+
+### 📊 Interactive Dashboard
+
+- KPI Cards
+
+- Pie Charts
+
+- Column Charts
+
+- Line Charts
+
+- Pivot Tables
+
+- Slicers
+
+- Filters
 
 ---
 
 # 📈 Key Performance Indicators (KPIs)
 
-- 💰 Total Revenue
-- 🛒 Total Orders
-- 🍕 Total Pizzas Sold
-- 📊 Average Order Value
-- 📦 Average Pizzas Per Order
-- 📅 Monthly Sales Trend
-- 🏆 Best Selling Pizza
-- 📉 Lowest Selling Pizza
-- 📂 Category-wise Sales
-- 📏 Pizza Size Performance
+💰 Total Revenue
+
+🛒 Total Orders
+
+🍕 Total Pizzas Sold
+
+📊 Average Order Value
+
+📦 Average Pizzas Per Order
+
+📅 Monthly Sales Trend
+
+🏆 Best Selling Pizza
+
+📉 Lowest Selling Pizza
+
+📂 Category-wise Sales
+
+📏 Pizza Size Performance
+
+⭐ Revenue Distribution
+
+📊 Order Distribution
 
 ---
 
-# 🗄 SQL Analysis
+# 💼 Skills Demonstrated
 
-The SQL queries included in this project were used to perform:
+Through this project, I demonstrated practical skills in:
 
-- Revenue Analysis
-- Order Analysis
-- Sales Trend Analysis
-- Monthly Analysis
-- Category-wise Sales
-- Top Selling Products
-- Bottom Selling Products
-- Average Order Value
-- KPI Calculations
-
-The complete SQL scripts are available inside the **SQL** folder.
+- SQL
+- Microsoft Excel
+- Dashboard Design
+- Business Intelligence
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
+- Pivot Charts
+- KPI Reporting
+- Data Visualization
+- Business Analytics
+- Analytical Thinking
 
 ---
+---
 
-# 📁 Project Structure
+# 📂 Project Structure
 
 ```
-Pizza-Sales-Dashboard/
-
+📦 Pizza-Sales-Dashboard
 │
-├── Assets/
+├── 📁 Assets
+│   ├── Dashboard Banner.png
+│   └── Project Assets
 │
-├── Dashboard/
+├── 📁 Dashboard
+│   ├── Pizza Sales Dashboard.xlsx
+│   ├── Dashboard Screenshot 1
+│   ├── Dashboard Screenshot 2
+│   └── Dashboard Screenshot 3
 │
-├── Data/
+├── 📁 Data
+│   ├── Raw Dataset
+│   ├── Cleaned Dataset
+│   └── Data Preview
 │
-├── Documentation/
+├── 📁 SQL
+│   ├── pizza_sales_queries.sql
+│   └── SQL README
 │
-├── SQL/
+├── 📁 Screenshots
+│   ├── Dashboard Overview
+│   ├── KPI Cards
+│   ├── Charts
+│   ├── SQL Output
+│   └── Excel Dashboard
 │
-├── Screenshots/
+├── 📁 Documentation
+│   ├── Project Report.pdf
+│   └── Documentation README
 │
 ├── LICENSE
 │
 └── README.md
 ```
 
+# 🗄 SQL Analysis
+
+SQL was used to perform comprehensive business analysis on the Pizza Sales dataset.
+
+The following analyses were performed:
+
+## 📊 Revenue Analysis
+
+- Total Revenue
+- Daily Revenue
+- Monthly Revenue
+- Revenue Distribution
+
 ---
 
-# 📸 Dashboard Preview
+## 🍕
 
-Dashboard screenshots are available inside the **Dashboard** and **Screenshots** folders.
+Pizza Performance Analysis
 
-The dashboard includes:
+- Best Selling Pizza
 
-- KPI Cards
-- Revenue Charts
-- Sales Trends
+- Worst Selling Pizza
+
+- Most Ordered Pizza
+
+- Least Ordered Pizza
+
+---
+
+## 📂 Category Analysis
+
+- Classic Pizza Sales
+
+- Supreme Pizza Sales
+
+- Chicken Pizza Sales
+
+- Veggie Pizza Sales
+
+---
+
+## 📏 Pizza Size Analysis
+
+- Small
+
+- Medium
+
+- Large
+
+- XL
+
+- XXL
+
+---
+
+## 📅 Time Analysis
+
+- Monthly Sales
+
+- Daily Orders
+
+- Weekend Sales
+
+- Peak Business Hours
+
+---
+
+## 📈 KPI Analysis
+
+- Average Order Value
+
+- Average Pizza Per Order
+
+- Total Orders
+
+- Total Revenue
+
+- Total Quantity Sold
+
+---
+
+# 📊 Dashboard Preview
+
+## Executive Dashboard
+
+The dashboard was designed to provide business managers with a quick overview of company performance.
+
+### Dashboard includes:
+
+✔ KPI Cards
+
+✔ Interactive Charts
+
+✔ Dynamic Filters
+
+✔ Pivot Tables
+
+✔ Pivot Charts
+
+✔ Pie Charts
+
+✔ Column Charts
+
+✔ Sales Trend Analysis
+
+✔ Revenue Analysis
+
+✔ Category Performance
+
+✔ Pizza Size Analysis
+
+✔ Product Performance
+
+---
+
+# 📸 Dashboard Gallery
+
+> 📌 Dashboard images are available inside the **Dashboard** folder.
+
+Example screenshots include:
+
+- Executive Dashboard
+- Revenue Dashboard
+- Sales Dashboard
+- KPI Dashboard
 - Category Analysis
-- Product Analysis
-- Interactive Filters
-
----
-
-# 💡 Business Insights
-
-Through this dashboard, businesses can:
-
-- Monitor revenue performance
-- Identify best-selling pizzas
-- Analyze customer ordering patterns
-- Compare pizza categories
-- Improve inventory planning
-- Support strategic decision-making
-- Track business growth
+- Monthly Sales Trend
+- Pizza Size Analysis
 
 ---
 
 # 📑 Documentation
 
-Complete project documentation is available inside the **Documentation** folder.
+A detailed project report is available inside the **Documentation** folder.
 
-The report includes:
+The documentation covers:
 
 - Executive Summary
 - Business Problem
 - Objectives
-- Dataset Description
-- Data Cleaning Process
-- SQL Analysis
+- Dataset Overview
+- Data Cleaning
+- SQL Queries
 - Dashboard Development
-- KPIs
 - Business Insights
+- KPIs
 - Conclusion
 
 ---
 
-# 🚀 Skills Demonstrated
+# 📈 Key Business Insights
 
-This project demonstrates practical experience in:
+This project generated several useful business insights.
+
+### Revenue Insights
+
+- Identified the highest revenue generating pizzas.
+- Compared monthly sales performance.
+- Measured business growth.
+
+---
+
+### Customer Insights
+
+- Customer ordering patterns.
+- Most preferred pizza sizes.
+- Category preferences.
+
+---
+
+### Product Insights
+
+- Best Selling Products
+- Worst Selling Products
+- High Revenue Products
+- Low Revenue Products
+
+---
+
+### Business Intelligence
+
+The dashboard helps business owners:
+
+✔ Improve Sales
+
+✔ Increase Revenue
+
+✔ Optimize Inventory
+
+✔ Understand Customer Demand
+
+✔ Monitor Business Performance
+
+✔ Make Data-Driven Decisions
+
+---
+
+# 🚀 Dashboard Workflow
+
+```
+Raw Dataset
+
+↓
+
+Data Cleaning
+
+↓
+
+SQL Analysis
+
+↓
+
+Business KPIs
+
+↓
+
+Pivot Tables
+
+↓
+
+Pivot Charts
+
+↓
+
+Dashboard Design
+
+↓
+
+Business Insights
+
+↓
+
+Decision Making
+```
+
+---
+
+# 📌 Project Features
+
+⭐ Interactive Dashboard
+
+⭐ SQL Analysis
+
+⭐ Excel Dashboard
+
+⭐ Pivot Tables
+
+⭐ Pivot Charts
+
+⭐ Slicers
+
+⭐ KPI Cards
+
+⭐ Business Intelligence
+
+⭐ Data Visualization
+
+⭐ Professional Documentation
+
+⭐ Recruiter Friendly Portfolio
+
+⭐ GitHub Ready Project
+
+---
+
+# 🌟 Project Impact
+
+This project demonstrates how raw business data can be transformed into meaningful insights through data analytics.
+
+Using SQL and Microsoft Excel, I designed an interactive dashboard that allows stakeholders to monitor sales performance, identify trends, evaluate product performance, and support business decision-making.
+
+This project reflects my practical understanding of Business Intelligence, Data Analytics, Dashboard Development, and SQL.
+
+---
+
+# 🎯 Learning Outcomes
+
+During this project, I gained hands-on experience in:
+
+- SQL Query Writing
+- Data Cleaning
+- Data Preparation
+- Data Transformation
+- Data Visualization
+- KPI Development
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Business Reporting
+- Analytical Thinking
+- Executive Reporting
+
+---
+
+# 💼 Real Business Applications
+
+This dashboard can help businesses to:
+
+📈 Increase Revenue
+
+📊 Monitor Sales Performance
+
+📦 Optimize Inventory
+
+🍕 Identify Best Selling Products
+
+📉 Detect Poor Performing Products
+
+🧾 Improve Customer Understanding
+
+📅 Analyze Monthly Sales Trends
+
+📌 Make Better Business Decisions
+
+---
+
+# 🚀 Future Enhancements
+
+This project can be extended by adding:
+
+- Power BI Dashboard
+- Python Data Analysis
+- Machine Learning Sales Prediction
+- Customer Segmentation
+- Sales Forecasting
+- Power Query Automation
+- MySQL Database Integration
+- Real-Time Dashboard
+- Cloud Reporting
+- AI-powered Business Insights
+
+---
+
+# 📚 Repository Contents
+
+| Folder | Description |
+|---------|-------------|
+| 📁 Assets | Banner and project assets |
+| 📁 Dashboard | Excel dashboard and screenshots |
+| 📁 Data | Raw and cleaned datasets |
+| 📁 SQL | SQL queries |
+| 📁 Documentation | Project report |
+| 📁 Screenshots | Dashboard previews |
+| 📄 README | Project overview |
+| 📄 LICENSE | MIT License |
+
+---
+
+# 🏆 Skills Demonstrated
+
+### Technical Skills
 
 - SQL
 - Microsoft Excel
-- Dashboard Development
 - Data Cleaning
+- Data Analysis
+- Dashboard Development
 - Business Intelligence
 - Data Visualization
-- Analytical Thinking
+- Pivot Tables
+- Pivot Charts
 - KPI Reporting
-- Business Analytics
 
 ---
 
-# 🌟 Future Improvements
+### Soft Skills
 
-- Power BI Dashboard
-- Automated Data Refresh
-- Power Query Integration
-- Predictive Sales Forecasting
-- Customer Segmentation
-- Cloud Database Integration
-- Real-Time Dashboard
+- Problem Solving
+- Critical Thinking
+- Analytical Thinking
+- Business Analysis
+- Data Interpretation
+- Presentation Skills
+- Reporting
+- Decision Making
 
 ---
 
-# 👨‍💻 About the Developer
+# 👨‍💻 About Me
 
-**Hamza Ahmed**
+## Hamza Ahmed
 
 🎓 BS Data Science Student
 
-📊 Data Analytics Enthusiast
+📊 Aspiring Data Analyst
 
-💻 SQL | Excel | Power BI | Python
+💻 SQL | Microsoft Excel | Power BI | Python
 
-📈 Passionate about transforming raw data into meaningful business insights.
-
----
-
-# 🔗 Connect with Me
-
-**LinkedIn**
-
-www.linkedin.com/in/hamza-ahmed-275a58242
+🚀 Passionate about solving business problems using data analytics and creating interactive dashboards.
 
 ---
 
-# ⭐ Support
+# 🔗 Connect With Me
 
-If you found this project helpful,
+### LinkedIn
+
+https://www.linkedin.com/in/hamza-ahmed-275a58242
+
+---
+
+# ⭐ If You Like This Project
+
+If you found this repository helpful,
 
 ⭐ Star this repository
 
 🍴 Fork this repository
 
-💬 Share your feedback
+📢 Share it with others
+
+Your support motivates me to build more data analytics projects.
 
 ---
 
-# 📌 Project Status
+# 🙏 Acknowledgements
 
-✅ Completed
+Special thanks to my university, instructors, and everyone who supported me throughout the development of this project.
+
+This project represents my practical learning journey in SQL, Microsoft Excel, Business Intelligence, and Data Analytics.
 
 ---
 
-<p align="center">
+# 📄 License
 
-## Thank You for Visiting My Project ❤️
+This project is licensed under the MIT License.
 
-**Turning Raw Data into Actionable Business Insights**
+---
 
-</p>
+<div align="center">
+
+# ❤️ Thank You for Visiting My Repository
+
+### ⭐ If you like my work, don't forget to Star this Repository ⭐
+
+---
+
+## 🍕 Turning Raw Data into Actionable Business Insights
+
+### Built with ❤️ by Hamza Ahmed
+
+</div>
