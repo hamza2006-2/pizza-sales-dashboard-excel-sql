@@ -1,10 +1,17 @@
-# Data
+# 📂 Data
 
+## Overview
 This folder contains the datasets used in the Pizza Sales Dashboard project.
 
-Contents:
-- Raw Pizza Sales Dataset
-- Cleaned Dataset (if available)
+## Files
+- Raw Pizza Sales Dataset (.xlsx)
+- Cleaned Pizza Sales Dataset (.xlsx)
 
-Purpose:
-The data was cleaned and prepared before performing SQL analysis and building the Excel dashboard.
+## Purpose
+The datasets were cleaned, validated, and prepared for SQL analysis and dashboard development.
+
+## Process
+- Data Cleaning
+- Data Validation
+- Data Formatting
+- Preparing Analysis-Ready Dataset
