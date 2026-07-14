@@ -4,10 +4,10 @@
 
 <p align="center">
 
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-Dashboard-green?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Business_Intelligence-orange?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge)
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Dashboard-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analysis-Business%20Intelligence-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge" />
 
 </p>
 
